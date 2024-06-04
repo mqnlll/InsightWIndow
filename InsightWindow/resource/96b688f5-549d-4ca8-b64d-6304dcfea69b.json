@@ -1,0 +1,72 @@
+[
+    {
+        "bindtype": "file",
+        "bindurl": "C:/Users/Public/Desktop/腾讯QQ.lnk",
+        "isCuted": true,
+        "pos_h": 207,
+        "pos_w": 444,
+        "scale_h": 22,
+        "scale_w": 40,
+        "url": "/resource/cutimgs/00104afd-a860-42a9-b8a9-0c7a4bfcd9e2.png"
+    },
+    {
+        "bindtype": "file",
+        "bindurl": "C:/Users/Public/Desktop/微信.lnk",
+        "isCuted": true,
+        "pos_h": 289,
+        "pos_w": 558,
+        "scale_h": 27,
+        "scale_w": 44,
+        "url": "/resource/cutimgs/dd9d3280-d616-4068-a8ad-cec1f933aa36.png"
+    },
+    {
+        "bindtype": "file",
+        "bindurl": "C:/Users/Administrator/Desktop/Visual Studio Code.lnk",
+        "isCuted": true,
+        "pos_h": 223,
+        "pos_w": 662,
+        "scale_h": 22,
+        "scale_w": 29,
+        "url": "/resource/cutimgs/5e9ca802-ee89-4299-83bb-9f784c766765.png"
+    },
+    {
+        "bindtype": "icon",
+        "bindurl": "",
+        "isCuted": true,
+        "pos_h": 29,
+        "pos_w": 506,
+        "scale_h": 25,
+        "scale_w": 24,
+        "url": "/resource/cutimgs/1f0d39e0-300a-4ee6-a9d9-9e50f2d311a6.png"
+    },
+    {
+        "bindtype": "fdir",
+        "bindurl": "C:/Users/Administrator/Desktop/课程",
+        "isCuted": true,
+        "pos_h": 98,
+        "pos_w": 871,
+        "scale_h": 76,
+        "scale_w": 53,
+        "url": "/resource/cutimgs/2185a89c-5057-42b9-a764-8d9c9012b983.png"
+    },
+    {
+        "bindtype": "file",
+        "bindurl": "C:/Users/Public/Desktop/完美世界竞技平台.lnk",
+        "isCuted": true,
+        "pos_h": 236,
+        "pos_w": 919,
+        "scale_h": 10,
+        "scale_w": 19,
+        "url": "/resource/cutimgs/334d8592-5ca5-40db-8041-789f48dc189c.png"
+    },
+    {
+        "bindtype": "file",
+        "bindurl": "C:/Users/Administrator/Desktop/英雄联盟WeGame版.lnk",
+        "isCuted": true,
+        "pos_h": 204,
+        "pos_w": 951,
+        "scale_h": 29,
+        "scale_w": 34,
+        "url": "/resource/cutimgs/30702136-2024-4216-b668-5d17de5655e0.png"
+    }
+]
